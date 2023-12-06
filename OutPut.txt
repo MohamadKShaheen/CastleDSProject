@@ -1,0 +1,9 @@
+KTS		S		FD		KD		LT
+ T1_Total_Damage		T2_Total_Damage		T3_Total_Damage		T4_Total_Damage
+1		1		1		1		
+R1_Unpaved_Dist		R2_Unpaved_Dist		R3_Unpaved_Dist		R4_Unpaved_Dist
+20		20		20		20		
+Game Lose
+Total Enemies = 3
+Average First-Shot Delay = 0
+Average Kill Delay = -nan(ind)
